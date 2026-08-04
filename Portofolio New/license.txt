@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bobber Indian
+* source:	https://sketchfab.com/3d-models/bobber-indian-bebc000d6b7a4492a6cce581d0eabf8e
+* author:	windupbird (https://sketchfab.com/windupbird)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bobber Indian" (https://sketchfab.com/3d-models/bobber-indian-bebc000d6b7a4492a6cce581d0eabf8e) by windupbird (https://sketchfab.com/windupbird) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
